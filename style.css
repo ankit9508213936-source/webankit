@@ -1,0 +1,33 @@
+body{margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+h1{
+    margin-top: 40px;
+    font-size: 36px;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+p{
+    font: 18px;
+    margin: 10px 0;
+}
+
+h2{
+    margin-top: 20px;
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+img{
+    margin-top: 20px;
+    width: 100px;
+    height: auto;
+    border-radius: 15px;
+}
+
+
